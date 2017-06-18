@@ -8,17 +8,26 @@ The output is a bit ugly yet.
 Budget SATA3 SSD 64GB
 
 CDM
-|           |    Read   |   Write   |
-|-----------|-----------|-----------|
-| Seq Q32T1 |  406MiB/s |  156MiB/s |
-|  4K Q32T1 | 38.8MiB/s | 1569KiB/s |
-| Seq Q01T1 |  364MiB/s |  147MiB/s |
-|  4K Q01T1 | 27.5MiB/s | 1360KiB/s |
+
+|-----------------|-----Read-----|----Write-----|
+
+| Seq Q32T1 |...  406MiB/s |..  156MiB/s |
+
+|..  4K Q32T1 |.. 38.8MiB/s | 1569KiB/s |
+
+| Seq Q01T1 |...  364MiB/s |..  147MiB/s |
+
+|..  4K Q01T1 |.. 27.5MiB/s | 1360KiB/s |
+
 
 CFM
-|           |    Read   |   Write   |
-|-----------|-----------|-----------|
-| Seq Q32T1 |  390MiB/s |  163MiB/s |
-|  4K Q32T1 | 40.3MiB/s | 1457KiB/s |
-| Seq Q01T1 |  341MiB/s |  159MiB/s |
-|  4K Q01T1 | 29.7MiB/s | 1207KiB/s |
+
+|-----------------|-----Read-----|----Write-----|
+
+| Seq Q32T1 |...  390MiB/s |..  163MiB/s |
+
+|..  4K Q32T1 |.. 40.3MiB/s | 1457KiB/s |
+
+| Seq Q01T1 |...  341MiB/s |..  159MiB/s |
+
+|..  4K Q01T1 |.. 29.7MiB/s | 1207KiB/s |
