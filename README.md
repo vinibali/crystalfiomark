@@ -5,7 +5,7 @@ This tool aims to have similar settings and results to CrystalDiskMark.
 Unfortunately buty4649's tool is not working and based on the old version of CDM, so I decided to create mine.
 The output is a bit ugly yet.
 
-Industrial SATA3 SSD 64GB
+Industrial SATA3 64GB SSD
 - DRAM-less JMF controller
 - Toshiba A19 NAND
 
