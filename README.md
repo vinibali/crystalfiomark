@@ -5,9 +5,11 @@ This tool aims to have similar settings and results to CrystalDiskMark.
 Unfortunately buty4649's tool is not working and based on the old version of CDM, so I decided to create mine.
 The output is a bit ugly yet.
 
-Budget SATA3 SSD 64GB
+Industrial SATA3 SSD 64GB
+- DRAM-less JMF controller
+- Toshiba A19 NAND
 
-CDM
+CDM (Windows7 AMD64)
 
 |-----------------|-----Read-----|----Write-----|
 
@@ -20,7 +22,7 @@ CDM
 |..  4K Q01T1 |.. 27.5MiB/s | 1360KiB/s |
 
 
-CFM
+CFM (Arch Linux 4.10 AMD64)
 
 |-----------------|-----Read-----|----Write-----|
 
