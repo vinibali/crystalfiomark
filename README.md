@@ -1,3 +1,5 @@
+Read-only, for updates please look at: https://gitlab.com/vinibali/crystalfiomark
+
 # crystalfiomark
 Crystalfiomark is a disk performance meter, which is based on Flexible I/O Tester.
 This tool aims to have similar settings and results to CrystalDiskMark.
